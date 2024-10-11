@@ -1,2 +1,2 @@
 # VdH
-For Van der hHoeven use
+For Van der Hoeven use
